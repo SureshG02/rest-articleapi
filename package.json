@@ -1,0 +1,12 @@
+{
+  "name": "rest-article",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node mobile-app-server.js"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "lodash": "^4.6.1"
+  }
+}
